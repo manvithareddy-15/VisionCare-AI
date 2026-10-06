@@ -79,6 +79,7 @@ MAIN FEATURES:
 - Patients can describe their eye problem.
 - The appointment is stored in SQLite.
 - New appointments have a "Pending" status.
+  ![VisionCare-AI](https://github.com/manvithareddy-15/VisionCare-AI/blob/5015340d66a2e3e603a0dc5273a3219b7b3ae25e/Screenshot%20(386).png)
 
 4. Doctor Dashboard
 - Doctors can view appointments stored in the database.
