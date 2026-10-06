@@ -35,6 +35,7 @@ Patients should be able to:
 - Provide their name, phone number, hospital, doctor, date, time, and eye problem.
 - Receive appointment confirmation.
 - View appointment status where applicable.
+  ![VisionCare-AI](https://github.com/manvithareddy-15/VisionCare-AI/blob/fcc8834c5f5608b5bf06d584bd649f75e0d422f0/Screenshot%20(384).png)
 
 2. DOCTOR
 Doctors should be able to:
