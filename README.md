@@ -95,7 +95,7 @@ The application provides different access levels:
 - Patient → Home, Eye Analysis, Doctor Appointment
 - Doctor → Doctor Dashboard
 - Administrator → Admin Dashboard
-
+![VisionCare-AI](https://github.com/manvithareddy-15/VisionCare-AI/blob/a7e7fa068e78931efcbf87bbf6e90083d8620985/Screenshot%20(385).png)
 Users should not be able to access pages belonging to another role.
 
 DATABASE:
@@ -115,6 +115,7 @@ The appointment table contains information such as:
 - Appointment Time
 - Eye Problem
 - Appointment Status
+  ![VisionCare-AI]()
 
 The default appointment status is:
 Pending
